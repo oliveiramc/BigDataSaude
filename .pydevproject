@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/BigDataSaude</path>
+<path>/BigDataSaude/core</path>
+<path>/BigDataSaude/bin</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>/Users/Marcelo/workspace/BigDataSaude/libs/pymongo-2.5.2-py2.7-macosx-10.7-intel.egg</path>
+</pydev_pathproperty>
+<pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
+<key>PYMONGO</key>
+<value>/Users/Marcelo/workspace/BigDataSaude/libs/pymongo-2.5.2-py2.7-macosx-10.7-intel.egg</value>
+</pydev_variables_property>
+</pydev_project>
